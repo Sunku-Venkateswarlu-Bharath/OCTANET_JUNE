@@ -1,0 +1,34 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Sunku Venkateswarlu Bharath">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="todoapp">
+            <h2>Get Things Done! <img src="./notepad.png"></h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add a New Task">
+                <select name="" id="priority">
+                    <option value="high">HIGH</option>
+                    <option value="medium">MEDIUM</option>
+                    <option value="low">LOW</option>
+                </select>
+                <input type="text" id="input-box3" placeholder="Add Label">
+                <input type="date" id="input-box2">
+                <button onclick = "addTask()" >ADD</button>
+            </div>
+            <ul id="list-container">
+                <!-- <li class="checked">Task 1</li>
+                <li>Task 2</li>
+                <li>Task 3</li> -->
+            </ul>
+        </div>
+    </div>
+<script src="script.js"></script>
+</body>
+</html>
