@@ -11,7 +11,7 @@
 
 # Task-2
 ## .preview
-![image](https://github.com/Sunku-Venkateswarlu-Bharath/OCTANET_JUNE/assets/94451263/b4dce05c-4c11-4121-b901-62740d8c14fd)
+![image](https://github.com/Sunku-Venkateswarlu-Bharath/OCTANET_JUNE/assets/94451263/07888053-c55f-44b2-926c-e5e24ac11e77)
 
 ## .tools
 - HTML
