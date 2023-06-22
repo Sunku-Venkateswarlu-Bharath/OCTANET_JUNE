@@ -20,7 +20,7 @@
 
 # Task-3
 ## .preview
-
+![Thumbnail](https://github.com/Sunku-Venkateswarlu-Bharath/OCTANET_JUNE/assets/94451263/8dbc9eea-0c81-423f-a283-ffa335a5a8ef)
 
 ## .tools
 - HTML
